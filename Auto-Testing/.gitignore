@@ -1,0 +1,9 @@
+# Ignore Gradle
+.gradle
+build
+bin
+
+# Ignore IDE
+.idea
+*.iml
+.vscode
